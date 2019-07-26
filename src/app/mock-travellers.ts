@@ -8,5 +8,6 @@ export const MockTravellers: Traveller[]=[
     {id: 6, name: "Vijay"},
     {id: 7, name: "Dan"},
     {id: 8, name: "Mike"},
-    {id: 9, name: "Olie"}
+    {id: 9, name: "Olie"},
+    {id: 10, name: "Dev 2"}
 ]
